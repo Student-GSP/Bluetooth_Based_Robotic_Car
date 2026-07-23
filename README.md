@@ -45,3 +45,24 @@ else if(s == 'b') move_backward();
 else if(s == 'l') turn_left();
 else if(s == 'r') turn_right();
 else if(s == 's') stop();
+
+##  Working Principle
+
+### Robotic Car
+
+<img width="960" height="1280" alt="Robo_Car" src="https://github.com/user-attachments/assets/dc9df72d-4011-4ed0-b34e-9b03cc8732ce" />
+
+###  PCB Design
+#1 Schematic Layout
+
+<img width="621" height="505" alt="schematic_Layout" src="https://github.com/user-attachments/assets/f1b5e13e-2451-4c3d-9135-f9927d657b29" />
+
+#2 PCB Layout
+
+<img width="516" height="533" alt="PCB_Layout" src="https://github.com/user-attachments/assets/8cda279a-fc82-4e7e-bfa4-5d9bc9c461cc" />
+
+#3 3-D Front_Back View
+
+<img width="651" height="679" alt="3D_Front_View" src="https://github.com/user-attachments/assets/cfe9aaa9-1bf2-4154-8b9e-3916e7a4517c" />
+
+<img width="648" height="679" alt="3D_Back_View" src="https://github.com/user-attachments/assets/fa4fff43-6a27-4b4b-b340-9f615c8085ff" />
