@@ -46,7 +46,7 @@ else if(s == 'l') turn_left();
 else if(s == 'r') turn_right();
 else if(s == 's') stop();
 
-##  Working Principle
+##  OUTPUT
 
 ### Robotic Car
 
@@ -57,9 +57,11 @@ else if(s == 's') stop();
 
 <img width="621" height="505" alt="schematic_Layout" src="https://github.com/user-attachments/assets/f1b5e13e-2451-4c3d-9135-f9927d657b29" />
 
+
 #2 PCB Layout
 
 <img width="516" height="533" alt="PCB_Layout" src="https://github.com/user-attachments/assets/8cda279a-fc82-4e7e-bfa4-5d9bc9c461cc" />
+
 
 #3 3-D Front_Back View
 
